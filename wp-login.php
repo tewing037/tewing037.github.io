@@ -8,14 +8,21 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; tewing design &#8212; WordPress</title>
-	<link rel='dns-prefetch' href='//s.w.org' />
+	    <style type="text/css">
+	    body.login div h1 a {
+		    background: url("http://tewing037.github.io/tewing037.github.io/wp-content/themes/mnml/images/mnml-logo.png") 50% 50% no-repeat !important;
+			width: 100%;
+			max-width: 250px !important;
+		}
+	</style>
+<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' href='http://tewing037.github.io/tewing037.github.io/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.5' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
 		</head>
 	<body class="login login-action-login wp-core-ui  locale-en-gb">
 		<div id="login">
-		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
+		<h1><a href="http://tewing037.github.io/tewing037.github.io/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
 	
 <form name="loginform" id="loginform" action="http://tewing037.github.io/tewing037.github.io/wp-login.php" method="post">
 	<p>
